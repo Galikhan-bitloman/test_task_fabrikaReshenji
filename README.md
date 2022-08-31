@@ -4,6 +4,8 @@
 
 ## Getting started
 
+Cтолкнулся с ошибками, которые не смог решить. Прошу рассмотреть только код. 
+
 1) Скопировать проект
 git clone https://gitlab.com/vue-project7/test_task.git
 
