@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'api_mailings',
     'rest_framework',
 
+
 ]
 
 REST_FRAMEWORK = {
@@ -132,5 +133,5 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CELERY_RESULT_BACKEND='djcelery.backends.database:DatabaseBackend',
+CELERY_RESULT_BACKEND='djcelery.backends.database:DatabaseBackend'
 BROKER_URL = 'amqp://guest:guest@localhost:5672//'
