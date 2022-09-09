@@ -7,7 +7,7 @@
 Cтолкнулся с ошибками, которые не смог решить. Прошу рассмотреть только код. 
 
 1) Скопировать проект
-git clone https://gitlab.com/vue-project7/test_task.git
+https://github.com/Galikhan-bitloman/test_task_fabrikaReshenji.git
 
 2) Перейти в директорию
 
